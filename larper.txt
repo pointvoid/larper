@@ -1,0 +1,4 @@
+Larping through LARPER , now we all hate someone who larps but its the oldest toolkit in playbook to learn and its very effective afterall fake it till you make works really well,
+after you are done faking it you can you add your own individualism bascially at that point no one cares, Larping is something similar too but here instead of humans larping we are making llms larp.
+The applications i wanna implement through it are Reverse engineering LLM (humans too) through it , training and creating local LLM for very sensitive data tight environment.
+Also using shifting the attention based model to larping based.
