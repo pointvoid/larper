@@ -1,0 +1,7 @@
+![larper](/Larper1.png)
+
+Larping through LARPER , now we all hate someone who larps but its the oldest toolkit in playbook to learn and its very effective afterall fake it till you make works really well, after you are done faking it you can you add your own individualism, bascially at that point no one cares, Larping is something similar too but here instead of humans larping we are making models larp.
+What i basically want to achieve through this is some level of reverse engineering capabilities over models , after searching further on the concept i came to know something similar is already done, which is known as black box distillation where the model to be trained gets its training from a teacher model to train the student this is also a very specific case of supervised fine-tuning(SFT) where we take a pretrained model and train it further on input and output so it learns to give the desired output here the pairs would come from a teacher model or the model to be reverse engineered, these are something which are already done but while we RE the model the extra llms we will use to analyse the input and output data is 'somewhat' unique so it made me feel not completely hopeless. Hence this project.
+![larper](/Larper3.png)
+
+To actualise this project we aim to create the various pipelines in the way shown to make the student learn.
